@@ -1,0 +1,169 @@
+PLAYER,TEAM,INJURY1,INJURY2,STATUS,DATE1,DATE2,DAYS,CASH EARNED,first_name,last_name,key_mlbam,key_retro,key_bbref,key_fangraphs,mlb_played_first,mlb_played_last,DATE1_NEW,DATE2_NEW,Year
+Carlos Martinez,STL,,Shoulder,60-day,,9/30 - 10/5,6,"$17,052 ",carlos,martinez,118360,martc002,martica02,1008158,1988,1995,,9/30/2015,2015
+Carlos Martinez,STL,,Shoulder,60-day,,9/30 - 10/5,6,"$17,052 ",carlos,martinez,593372,martc006,martica04,11682,2013,2020,,9/30/2015,2015
+Carlos Martinez,STL,,Shoulder,60-day,,9/30 - 10/5,6,"$17,052 ",carlos,martinez,465593,martc004,martica03,3167,2006,2009,,9/30/2015,2015
+Dylan Bundy,BAL,,Shoulder,60-day,,9/24 - 10/5,12,"$29,184 ",dylan,bundy,605164,bundd001,bundydy01,12917,2012,2020,,9/24/2015,2015
+Henderson Alvarez,MIA,Shoulder,Shoulder,15-day,5/23 - 9/8,9/8 - 10/5,172,"$3,759,576 ",henderson,alvarez,506693,alvah001,alvarhe01,5669,2011,2017,5/23/2015,9/8/2015,2015
+Domingo German,NYY,,Elbow Tommy John,60-day,,9/1 - 10/5,35,"$97,055 ",domingo,german,593334,germd001,germado01,17149,2017,2019,,9/1/2015,2015
+Chad Billingsley,PHI,,Elbow,15-day,,9/1 - 10/5,166,"$1,360,702 ",chad,billingsley,451532,billc001,billich01,5842,2006,2015,,9/1/2015,2015
+Miguel Gonzalez,BAL,,Shoulder,15-day,,8/31 - 9/29,46,"$823,216 ",miguel,gonzalez,544838,gonzm004,gonzami04,4049,2013,2013,,8/31/2015,2015
+Miguel Gonzalez,BAL,,Shoulder,15-day,,8/31 - 9/29,46,"$823,216 ",miguel,gonzalez,456068,gonzm003,gonzami03,7024,2012,2018,,8/31/2015,2015
+Kendry Flores,MIA,,Shoulder,15-day,,8/22 - 10/5,45,"$124,785 ",kendry,flores,572309,flork002,floreke01,12118,2015,2016,,8/22/2015,2015
+Carlos Carrasco,CLE,,Shoulder,15-day,,8/22 - 9/8,18,"$229,914 ",carlos,carrasco,471911,carrc003,carraca01,6632,2009,2020,,8/22/2015,2015
+Anibal Sanchez,DET,,Shoulder,15-day,,8/20 - 10/5,47,"$4,109,304 ",anibal,sanchez,434671,sanca004,sanchan01,3284,2006,2020,,8/20/2015,2015
+Jose Fernandez,MIA,,Arm,60-day,,8/8 - 9/12,134,"$476,638 ",jose,fernandez,150403,fernj001,fernajo01,1003998,1999,2001,,8/8/2015,2015
+Jose Fernandez,MIA,,Arm,60-day,,8/8 - 9/12,134,"$476,638 ",jose,fernandez,622774,fernj005,fernajo04,14733,2018,2019,,8/8/2015,2015
+Jose Fernandez,MIA,,Arm,60-day,,8/8 - 9/12,134,"$476,638 ",jose,fernandez,605228,fernj003,fernajo02,11530,2013,2016,,8/8/2015,2015
+Kyle Kendrick,COL,,Shoulder,15-day,,8/1 - 9/1,32,"$961,760 ",kyle,kendrick,452718,kendk001,kendrky01,6230,2007,2017,,8/1/2015,2015
+Matt Harrison,PHI/TEX,Back,Back,15-day,4/9 - 7/4,7/31 - 10/5,168,"$11,934,384 ",matt,harrison,457448,harrm001,harrima01,5551,2008,2015,4/9/2015,7/31/2015,2015
+Rick Porcello,BOS,,Arm,15-day,,7/30 - 8/26,28,"$1,912,568 ",rick,porcello,519144,porcr001,porceri01,2717,2009,2020,,7/30/2015,2015
+Michael Pineda,NYY,,Arm,15-day,,7/30 - 8/26,28,"$321,300 ",michael,pineda,501381,pinem001,pinedmi01,5372,2011,2020,,7/30/2015,2015
+Bronson Arroyo,ARI/LAD,,Elbow Tommy John,60-day,,7/30 - 10/4,184,"$3,497,104 ",bronson,arroyo,276520,arrob001,arroybr01,978,2000,2017,,7/30/2015,2015
+Clay Buchholz,BOS,Arm,Arm,15-day,7/11 - 7/28,7/28 - 10/5,88,"$5,770,512 ",clay,buchholz,453329,buchc001,buchhcl01,3543,2007,2019,7/11/2015,7/28/2015,2015
+Tim Hudson,SF,Shoulder,Shoulder,15-day,6/27 - 7/20,7/27 - 9/1,61,"$4,000,014 ",tim,hudson,218596,hudst001,hudsoti01,921,1999,2015,6/27/2015,7/27/2015,2015
+Jason Vargas,KC,Elbow,Arm,15-day,5/6 - 5/26,7/22 - 10/5,140,"$6,502,720 ",jason,vargas,450306,vargj001,vargaja01,8044,2005,2019,5/6/2015,7/22/2015,2015
+Chase Anderson,ARI,,Arm,15-day,,7/19 - 8/7,20,"$56,020 ",chase,anderson,502624,andec001,anderch01,6895,2014,2020,,7/19/2015,2015
+Chad Bettis,COL,,Shoulder,15-day,,7/19 - 8/24,37,"$102,601 ",chad,bettis,518452,bettc001,bettich01,10587,2013,2019,,7/19/2015,2015
+Tyler Anderson,COL,,Elbow,60-day,,7/10 - 10/5,88,"$244,024 ",tyler,anderson,542881,andet002,anderty01,12880,2016,2020,,7/10/2015,2015
+Steven Matz,NYM,,Shoulder,15-day,,7/6 - 9/1,58,"$160,834 ",steven,matz,571927,matzs001,matzst01,13361,2015,2020,,7/6/2015,2015
+Stephen Strasburg,WSH,,Neck,15-day,,5/30 - 6/23,60,"$2,426,220 ",stephen,strasburg,544931,stras001,strasst01,10131,2010,2020,,5/30/2015,2015
+Matt Garza,MIL,,Shoulder,15-day,,7/3 - 7/21,19,"$1,297,814 ",matt,garza,490063,garzm001,garzama01,3340,2006,2017,,7/3/2015,2015
+Jon Moscot,CIN,Shoulder,Shoulder,15-day,6/16 - 6/28,6/28 - 10/5,113,"$313,349 ",jon,moscot,621209,moscj001,moscojo01,13849,2015,2016,6/16/2015,6/28/2015,2015
+Lance Lynn,STL,,Arm,15-day,,6/8 - 6/25,18,"$688,518 ",lance,lynn,458681,lynnl001,lynnla01,2520,2011,2020,,6/8/2015,2015
+Aaron Sanchez,TOR,,Back,15-day,,6/6 - 7/25,50,"$139,550 ",aaron,sanchez,592717,sanca006,sanchaa01,11490,2014,2019,,6/6/2015,2015
+James Paxton,SEA,,Finger,15-day,,5/29 - 9/13,108,"$306,288 ",james,paxton,572020,paxtj001,paxtoja01,11828,2013,2020,,5/29/2015,2015
+Josh Johnson,SD,,Elbow,15-day,,5/23 - 10/4,184,"$1,005,376 ",josh,johnson,435178,johnj009,johnsjo09,4567,2005,2013,,5/23/2015,2015
+Drew Smyly,TB,,Arm,15-day,,5/13 - 8/16,133,"$1,925,973 ",drew,smyly,592767,smyld001,smylydr01,11760,2012,2020,,5/13/2015,2015
+Patrick Corbin,ARI,,Elbow Tommy John,15-day,,5/10 - 7/4,101,"$289,163 ",patrick,corbin,571578,corbp001,corbipa01,9323,2012,2020,,5/10/2015,2015
+Jarrod Parker,OAK,,Elbow Tommy John,15-day,,5/9 - 10/4,184,"$854,680 ",jarrod,parker,519105,parkj001,parkeja02,4913,2011,2013,,5/9/2015,2015
+Yordano Ventura,KC,,Ulnar Nerve,15-day,,5/8 - 7/9,63,"$258,174 ",yordano,ventura,570649,venty001,ventuyo01,11855,2013,2016,,5/8/2015,2015
+Alex Cobb,TB,,Arm,15-day,,5/8 - 10/4,184,"$4,021,872 ",alex,cobb,502171,cobba001,cobbal01,6562,2011,2020,,5/8/2015,2015
+Kevin Gausman,BAL,,Shoulder,15-day,,5/7 - 6/21,46,"$131,192 ",kevin,gausman,592332,gausk001,gausmke01,14107,2013,2020,,5/7/2015,2015
+Mike Minor,ATL,,Shoulder,15-day,,5/2 - 10/4,184,"$5,630,584 ",mike,minor,501985,minom001,minormi01,10021,2010,2020,,5/2/2015,2015
+Brandon McCarthy,LAD,Elbow Tommy John,Elbow Tommy John,15-day,4/26 - 4/30,4/30 - 10/5,164,"$9,857,876 ",brandon,mccarthy,435221,mccab001,mccarbr01,4662,2005,2018,4/26/2015,4/30/2015,2015
+Homer Bailey,CIN,,Elbow,15-day,4/27 - 4/29,4/29 - 10/5,177,"$8,704,860 ",homer,bailey,456701,bailh001,baileho02,8362,2007,2020,4/27/2015,4/29/2015,2015
+Nick Tepesch,TEX,,Ulnar Nerve,15-day,,4/27 - 10/4,184,"$520,536 ",nick,tepesch,519344,tepen001,tepesni01,11716,2013,2017,,4/27/2015,2015
+Masahiro Tanaka,NYY,,Arm,15-day,,4/24 - 6/3,41,"$4,928,979 ",masahiro,tanaka,547888,tanam001,tanakma01,15764,2014,2020,,4/24/2015,2015
+Hisashi Iwakuma,SEA,,Arm,15-day,,4/23 - 7/6,75,"$2,868,825 ",hisashi,iwakuma,547874,iwakh001,iwakuhi01,13048,2012,2017,,4/23/2015,2015
+Tyler Skaggs,LAA,,Elbow Tommy John,15-day,,4/15 - 10/4,184,"$517,776 ",tyler,skaggs,572140,skagt001,skaggty01,10190,2012,2019,,4/15/2015,2015
+Ivan Nova,NYY,,Elbow Tommy John,15-day,,4/11 - 6/24,91,"$1,641,003 ",ivan,nova,467100,novai001,novaiv01,1994,2010,2020,,4/11/2015,2015
+Clayton Kershaw,,,Healthy,,,,,,clayton,kershaw,477132,kersc001,kershcl01,2036,2008,2020,,,2015
+Jake Arrieta,,,Healthy,,,,,,jake,arrieta,453562,arrij001,arrieja01,4153,2010,2020,,,2015
+David Price,,,Healthy,,,,,,david,price,456034,pricd001,priceda01,3184,2008,2019,,,2015
+Max Scherzer,,,Healthy,,,,,,max,scherzer,453286,schem001,scherma01,3137,2008,2020,,,2015
+Dallas Keuchel,,,Healthy,,,,,,dallas,keuchel,572971,keucd001,keuchda01,9434,2012,2020,,,2015
+Chris Sale,,,Healthy,,,,,,chris,sale,519242,salec001,salech01,10603,2010,2019,,,2015
+Corey Kluber,,,Healthy,,,,,,corey,kluber,446372,klubc001,klubeco01,2429,2011,2020,,,2015
+Zack Greinke,,,Healthy,,,,,,zack,greinke,425844,greiz001,greinza01,1943,2004,2020,,,2015
+Chris Archer,,,Healthy,,,,,,chris,archer,502042,archc001,archech01,6345,2012,2019,,,2015
+Gerrit Cole,,,Healthy,,,,,,gerrit,cole,543037,coleg001,colege01,13125,2013,2020,,,2015
+Madison Bumgarner,,,Healthy,,,,,,madison,bumgarner,518516,bumgm001,bumgama01,5524,2009,2020,,,2015
+Jon Lester,,,Healthy,,,,,,jon,lester,452657,lestj001,lestejo01,4930,2006,2020,,,2015
+Jacob deGrom,,,Healthy,,,,,,jacob,degrom,594798,degrj001,degroja01,10954,2014,2020,,,2015
+Cole Hamels,,,Healthy,,,,,,cole,hamels,430935,hamec001,hamelco01,4972,2006,2020,,,2015
+Jose Quintana,,,Healthy,,,,,,jose,quintana,500779,quinj001,quintjo01,11423,2012,2020,,,2015
+Johnny Cueto,,,Healthy,,,,,,johnny,cueto,456501,cuetj001,cuetojo01,6893,2008,2020,,,2015
+Matt Harvey,,,Healthy,,,,,,matt,harvey,518774,harvm001,harvema01,11713,2012,2020,,,2015
+Tyson Ross,,,Healthy,,,,,,tyson,ross,475115,rosst001,rossty01,7872,2010,2019,,,2015
+Sonny Gray,,,Healthy,,,,,,sonny,gray,543243,grays001,grayso01,12768,2013,2020,,,2015
+Shelby Miller,,,Healthy,,,,,,shelby,miller,571946,mills001,millesh01,10197,2012,2019,,,2015
+Gio Gonzalez,,,Healthy,,,,,,gio,gonzalez,461829,gonzg003,gonzagi01,7448,2008,2020,,,2015
+Collin McHugh,,,Healthy,,,,,,collin,mchugh,543521,mchuc001,mchugco01,7531,2012,2019,,,2015
+John Lackey,,,Healthy,,,,,,john,lackey,407793,lackj001,lackejo01,1507,2002,2017,,,2015
+Francisco Liriano,,,Healthy,,,,,,francisco,liriano,434538,lirif001,liriafr01,3201,2005,2019,,,2015
+Kyle Hendricks,,,Healthy,,,,,,kyle,hendricks,543294,hendk001,hendrky01,12049,2014,2020,,,2015
+Nathan Eovaldi,,,Healthy,,,,,,nathan,eovaldi,543135,eovan001,eovalna01,9132,2011,2020,,,2015
+Anthony DeSclafani,,,Healthy,,,,,,anthony,desclafani,543101,desca001,desclan01,13050,2014,2020,,,2015
+Justin Verlander,,,Healthy,,,,,,justin,verlander,434378,verlj001,verlaju01,8700,2005,2020,,,2015
+Jordan Zimmermann,,,Healthy,,,,,,jordan,zimmermann,519455,zimmj003,zimmejo02,4505,2009,2020,,,2015
+Danny Salazar,,,Healthy,,,,,,danny,salazar,517593,salad001,salazda01,5867,2013,2019,,,2015
+Jake Odorizzi,,,Healthy,,,,,,jake,odorizzi,543606,odorj001,odorija01,6397,2012,2020,,,2015
+Noah Syndergaard,,,Healthy,,,,,,noah,syndergaard,592789,syndn001,syndeno01,11762,2015,2019,,,2015
+Kyle Gibson,,,Healthy,,,,,,kyle,gibson,502043,gibsk002,gibsoky01,10123,2013,2020,,,2015
+Garrett Richards,,,Healthy,,,,,,garrett,richards,572070,richg002,richaga01,9784,2011,2020,,,2015
+Wei-Yin Chen,,,Healthy,,,,,,wei-yin,chen,612672,chenw001,chenwe02,13071,2012,2019,,,2015
+Jaime Garcia,,,Healthy,,,,,,jaime,garcia,448802,garcj004,garcija02,8137,2008,2018,,,2015
+Wade Miley,,,Healthy,,,,,,wade,miley,489119,milew001,mileywa01,8779,2011,2020,,,2015
+Edinson Volquez,,,Healthy,,,,,,edinson,volquez,450172,volqe001,volqued01,3990,2005,2020,,,2015
+Alex Wood,,,Healthy,,,,,,alex,wood,622072,wooda002,woodal02,13781,2013,2020,,,2015
+Felix Hernandez,,,Healthy,,,,,,felix,hernandez,433587,hernf002,hernafe02,4772,2005,2019,,,2015
+Ubaldo Jimenez,,,Healthy,,,,,,ubaldo,jimenez,434622,jimeu001,jimenub01,3374,2006,2017,,,2015
+Colby Lewis,,,Healthy,,,,,,colby,lewis,407890,lewic001,lewisco01,1259,2002,2016,,,2015
+Yovani Gallardo,,,Healthy,,,,,,yovani,gallardo,451596,gally001,gallayo01,8173,2007,2018,,,2015
+Bartolo Colon,,,Healthy,,,,,,bartolo,colon,112526,colob001,colonba01,375,1997,2018,,,2015
+Trevor May,,,Healthy,,,,,,trevor,may,543507,may-t001,maytr01,6398,2014,2020,,,2015
+Jesse Chavez,,,Healthy,,,,,,jesse,chavez,445926,chavj001,chaveje01,5448,2008,2020,,,2015
+Mike Fiers,,,Healthy,,,,,,mike,fiers,571666,fierm001,fiersmi01,7754,2011,2020,,,2015
+Robbie Ray,,,Healthy,,,,,,robbie,ray,592662,ray-r002,rayro02,11486,2014,2020,,,2015
+Scott Kazmir,,,Healthy,,,,,,scott,kazmir,431148,kazms001,kazmisc01,4897,2004,2016,,,2015
+Jeff Samardzija,,,Healthy,,,,,,jeff,samardzija,502188,samaj001,samarje01,3254,2008,2020,,,2015
+Erasmo Ramirez,,,Healthy,,,,,,erasmo,ramirez,285063,ramie001,ramirer01,1699,2003,2007,,,2015
+Erasmo Ramirez,,,Healthy,,,,,,erasmo,ramirez,541640,ramie004,ramirer02,10314,2012,2020,,,2015
+Mike Pelfrey,,,Healthy,,,,,,mike,pelfrey,460059,pelfm001,pelfrmi01,5203,2006,2017,,,2015
+Jason Hammel,,,Healthy,,,,,,jason,hammel,434628,hammj002,hammeja01,4538,2006,2018,,,2015
+Michael Wacha,,,Healthy,,,,,,michael,wacha,608379,wachm001,wachami01,14078,2013,2020,,,2015
+Adam Warren,,,Healthy,,,,,,adam,warren,476589,warra001,warread01,9029,2012,2019,,,2015
+Mark Buehrle,,,Healthy,,,,,,mark,buehrle,279824,buehm001,buehrma01,225,2000,2015,,,2015
+Chris Tillman,,,Healthy,,,,,,chris,tillman,501957,tillc001,tillmch01,5279,2009,2018,,,2015
+Jimmy Nelson,,,Healthy,,,,,,jimmy,nelson,519076,nelsj004,nelsoji02,10547,2013,2019,,,2015
+Andrew Cashner,,,Healthy,,,,,,andrew,cashner,488768,casha001,cashnan01,8782,2010,2019,,,2015
+Marco Estrada,,,Healthy,,,,,,marco,estrada,462136,estrm001,estrama01,1118,2008,2019,,,2015
+Trevor Bauer,,,Healthy,,,,,,trevor,bauer,545333,bauet001,bauertr01,12703,2012,2020,,,2015
+Taijuan Walker,,,Healthy,,,,,,taijuan,walker,592836,walkt004,walketa01,11836,2013,2020,,,2015
+Eduardo Rodriguez,,,Healthy,,,,,,eduardo,rodriguez,593958,rodre004,rodried05,13164,2015,2019,,,2015
+Eduardo Rodriguez,,,Healthy,,,,,,eduardo,rodriguez,121350,rodre102,rodried01,1011102,1973,1979,,,2015
+Alex Colome,,,Healthy,,,,,,alex,colome,517008,coloa001,colomal01,6661,2013,2020,,,2015
+Carlos Rodon,,,Healthy,,,,,,carlos,rodon,607074,rodoc001,rodonca01,16137,2015,2020,,,2015
+Tommy Milone,,,Healthy,,,,,,tommy,milone,543548,milot001,milonto01,7608,2011,2020,,,2015
+Andrew Heaney,,,Healthy,,,,,,andrew,heaney,571760,heana001,heanean01,15423,2014,2020,,,2015
+Mike Leake,,,Healthy,,,,,,mike,leake,502190,leakm001,leakemi01,10130,2010,2019,,,2015
+Mat Latos,,,Healthy,,,,,,mat,latos,502009,latom001,latosma01,3815,2009,2017,,,2015
+Ervin Santana,,,Healthy,,,,,,ervin,santana,429722,sante001,santaer01,3200,2005,2019,,,2015
+Taylor Jungmann,,,Healthy,,,,,,taylor,jungmann,543380,jungt001,jungmta01,13119,2015,2017,,,2015
+Brett Anderson,,,Healthy,,,,,,brett,anderson,474463,andeb004,anderbr04,8223,2009,2020,,,2015
+Julio Teheran,,,Healthy,,,,,,julio,teheran,527054,tehej001,teherju01,6797,2011,2020,,,2015
+Alfredo Simon,,,Healthy,,,,,,alfredo,simon,430580,simoa001,simonal01,2155,2008,2016,,,2015
+Drew Hutchison,,,Healthy,,,,,,drew,hutchison,571800,hutcd001,hutchdr01,10732,2012,2018,,,2015
+Jeff Locke,,,Healthy,,,,,,jeff,locke,502046,lockj001,lockeje01,2929,2011,2017,,,2015
+Chris Heston,,,Healthy,,,,,,chris,heston,518790,hestc001,hestoch01,10302,2014,2017,,,2015
+John Danks,,,Healthy,,,,,,john,danks,433579,dankj001,danksjo01,6329,2007,2016,,,2015
+Danny Duffy,,,Healthy,,,,,,danny,duffy,518633,duffd001,duffyda01,3542,2011,2020,,,2015
+Travis Wood,,,Healthy,,,,,,travis,wood,475243,woodt004,woodtr01,9884,2010,2017,,,2015
+Joe Kelly,,,Healthy,,,,,,joe,kelly,116950,kellj102,kellyjo03,1006804,1914,1919,,,2015
+Joe Kelly,,,Healthy,,,,,,joe,kelly,523260,kellj001,kellyjo05,9761,2012,2020,,,2015
+Joe Kelly,,,Healthy,,,,,,joe,kelly,116951,kellj101,kellyjo04,1006805,1926,1928,,,2015
+Jake Peavy,,,Healthy,,,,,,jake,peavy,408241,peavj001,peavyja01,1051,2002,2016,,,2015
+Aaron Harang,,,Healthy,,,,,,aaron,harang,421685,haraa001,haranaa01,1451,2002,2015,,,2015
+CC Sabathia,,,Healthy,,,,,,cc,sabathia,282332,sabac001,sabatc.01,404,2001,2019,,,2015
+David Phelps,,,Healthy,,,,,,david,phelps,475479,pheld001,phelpda01,6316,2012,2020,,,2015
+Phil Hughes,,,Healthy,,,,,,phil,hughes,461833,hughp001,hugheph01,7450,2007,2018,,,2015
+Dan Haren,,,Healthy,,,,,,dan,haren,429717,hared001,harenda01,1757,2003,2015,,,2015
+Jeremy Hellickson,,,Healthy,,,,,,jeremy,hellickson,476451,hellj001,hellije01,4371,2010,2019,,,2015
+Chris Rusin,,,Healthy,,,,,,chris,rusin,543734,rusic001,rusinch01,9895,2012,2020,,,2015
+Chris Young,,,Healthy,,,,,,chris,young,432934,younc003,youngch03,3196,2004,2017,,,2015
+Chris Young,,,Healthy,,,,,,chris,young,455759,younc004,youngch04,3882,2006,2018,,,2015
+Tom Koehler,,,Healthy,,,,,,tom,koehler,543408,koeht001,koehlto01,6570,2012,2017,,,2015
+Jered Weaver,,,Healthy,,,,,,jered,weaver,450308,weavj003,weaveje02,4235,2006,2017,,,2015
+Scott Feldman,,,Healthy,,,,,,scott,feldman,444857,felds001,feldmsc01,6283,2005,2017,,,2015
+Mike Bolsinger,,,Healthy,,,,,,mike,bolsinger,502211,bolsm001,bolsimi01,11137,2014,2017,,,2015
+James Shields,,,Healthy,,,,,,james,shields,448306,shiej002,shielja02,7059,2006,2018,,,2015
+Charlie Morton,,,Healthy,,,,,,charlie,morton,119424,mortc101,mortoch01,1009231,1882,1885,,,2015
+Charlie Morton,,,Healthy,,,,,,charlie,morton,450203,mortc002,mortoch02,4676,2008,2020,,,2015
+Matt Shoemaker,,,Healthy,,,,,,matt,shoemaker,533167,shoem001,shoemma01,4776,2013,2020,,,2015
+Hector Santiago,,,Healthy,,,,,,hector,santiago,502327,santh001,santihe01,4026,2011,2019,,,2015
+Roenis Elias,,,Healthy,,,,,,roenis,elias,606273,eliar001,eliasro01,12673,2014,2019,,,2015
+Kendall Graveman,,,Healthy,,,,,,kendall,graveman,608665,gravk001,graveke01,15514,2014,2020,,,2015
+Nick Martinez,,,Healthy,,,,,,nick,martinez,607259,martn002,martini01,12730,2014,2017,,,2015
+Ian Kennedy,,,Healthy,,,,,,ian,kennedy,453178,kenni001,kenneia01,6986,2007,2020,,,2015
+Josh Collmenter,,,Healthy,,,,,,josh,collmenter,518567,collj001,collmjo01,7312,2011,2017,,,2015
+Matt Wisler,,,Healthy,,,,,,matt,wisler,605538,wislm001,wislema01,12804,2015,2020,,,2015
+Wily Peralta,,,Healthy,,,,,,wily,peralta,503449,peraw001,peralwi01,7738,2012,2019,,,2015
+Doug Fister,,,Healthy,,,,,,doug,fister,450729,fistd001,fistedo01,9425,2009,2018,,,2015
+Williams Perez,,,Healthy,,,,,,williams,perez,554234,perew001,perezwi01,11592,2015,2016,,,2015
+Jerome Williams,,,Healthy,,,,,,jerome,williams,425532,willj003,willije01,1137,2003,2016,,,2015
+Ryan Vogelsong,,,Healthy,,,,,,ryan,vogelsong,285064,voger001,vogelry01,1011,2000,2016,,,2015
+Tanner Roark,,,Healthy,,,,,,tanner,roark,543699,roart001,roarkta01,8753,2013,2020,,,2015
+Odrisamer Despaigne,,,Healthy,,,,,,odrisamer,despaigne,628333,despo001,despaod01,16017,2014,2019,,,2015
+Kyle Lohse,,,Healthy,,,,,,kyle,lohse,346798,lohsk001,lohseky01,739,2001,2016,,,2015
+Michael Lorenzen,,,Healthy,,,,,,michael,lorenzen,547179,lorem002,lorenmi01,14843,2015,2020,,,2015
+Jeremy Guthrie,,,Healthy,,,,,,jeremy,guthrie,425386,guthj001,guthrje01,2072,2004,2017,,,2015
